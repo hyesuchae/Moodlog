@@ -1,0 +1,254 @@
+{
+  "0 debug pnpm:scope": {
+    "selected": 1
+  },
+  "1 debug pnpm:package-manifest": {
+    "initial": {
+      "name": "moodlog",
+      "version": "0.1.0",
+      "private": true,
+      "scripts": {
+        "dev": "next dev",
+        "build": "next build",
+        "start": "next start",
+        "lint": "next lint",
+        "typecheck": "tsc --noEmit"
+      },
+      "dependencies": {
+        "next": "15.2.4",
+        "react": "19.0.0",
+        "react-dom": "19.0.0"
+      },
+      "devDependencies": {
+        "@types/node": "^22.10.2",
+        "@types/react": "^19.0.2",
+        "@types/react-dom": "^19.0.2",
+        "autoprefixer": "^10.4.20",
+        "postcss": "^8.4.49",
+        "tailwindcss": "^3.4.17",
+        "typescript": "^5.7.2"
+      }
+    },
+    "prefix": "C:\\Users\\MS\\Documents\\정서문해력"
+  },
+  "2 debug pnpm:context": {
+    "currentLockfileExists": false,
+    "storeDir": "C:\\Users\\MS\\Documents\\정서문해력\\.pnpm-store\\v3",
+    "virtualStoreDir": "C:\\Users\\MS\\Documents\\정서문해력\\node_modules\\.pnpm"
+  },
+  "3 debug pnpm:stage": {
+    "prefix": "C:\\Users\\MS\\Documents\\정서문해력",
+    "stage": "resolution_started"
+  },
+  "4 debug pnpm:request-retry": {
+    "attempt": 1,
+    "error": {
+      "code": "ERR_INVALID_THIS"
+    },
+    "maxRetries": 2,
+    "method": "GET",
+    "timeout": 10000,
+    "url": "https://registry.npmjs.org/@types%2Fnode"
+  },
+  "5 debug pnpm:request-retry": {
+    "attempt": 1,
+    "error": {
+      "code": "ERR_INVALID_THIS"
+    },
+    "maxRetries": 2,
+    "method": "GET",
+    "timeout": 10000,
+    "url": "https://registry.npmjs.org/@types%2Freact"
+  },
+  "6 debug pnpm:request-retry": {
+    "attempt": 1,
+    "error": {
+      "code": "ERR_INVALID_THIS"
+    },
+    "maxRetries": 2,
+    "method": "GET",
+    "timeout": 10000,
+    "url": "https://registry.npmjs.org/@types%2Freact-dom"
+  },
+  "7 debug pnpm:request-retry": {
+    "attempt": 1,
+    "error": {
+      "code": "ERR_INVALID_THIS"
+    },
+    "maxRetries": 2,
+    "method": "GET",
+    "timeout": 10000,
+    "url": "https://registry.npmjs.org/autoprefixer"
+  },
+  "8 debug pnpm:request-retry": {
+    "attempt": 1,
+    "error": {
+      "code": "ERR_INVALID_THIS"
+    },
+    "maxRetries": 2,
+    "method": "GET",
+    "timeout": 10000,
+    "url": "https://registry.npmjs.org/postcss"
+  },
+  "9 debug pnpm:request-retry": {
+    "attempt": 1,
+    "error": {
+      "code": "ERR_INVALID_THIS"
+    },
+    "maxRetries": 2,
+    "method": "GET",
+    "timeout": 10000,
+    "url": "https://registry.npmjs.org/tailwindcss"
+  },
+  "10 debug pnpm:request-retry": {
+    "attempt": 1,
+    "error": {
+      "code": "ERR_INVALID_THIS"
+    },
+    "maxRetries": 2,
+    "method": "GET",
+    "timeout": 10000,
+    "url": "https://registry.npmjs.org/typescript"
+  },
+  "11 debug pnpm:request-retry": {
+    "attempt": 1,
+    "error": {
+      "code": "ERR_INVALID_THIS"
+    },
+    "maxRetries": 2,
+    "method": "GET",
+    "timeout": 10000,
+    "url": "https://registry.npmjs.org/next"
+  },
+  "12 debug pnpm:request-retry": {
+    "attempt": 1,
+    "error": {
+      "code": "ERR_INVALID_THIS"
+    },
+    "maxRetries": 2,
+    "method": "GET",
+    "timeout": 10000,
+    "url": "https://registry.npmjs.org/react"
+  },
+  "13 debug pnpm:request-retry": {
+    "attempt": 1,
+    "error": {
+      "code": "ERR_INVALID_THIS"
+    },
+    "maxRetries": 2,
+    "method": "GET",
+    "timeout": 10000,
+    "url": "https://registry.npmjs.org/react-dom"
+  },
+  "14 debug pnpm:request-retry": {
+    "attempt": 2,
+    "error": {
+      "code": "ERR_INVALID_THIS"
+    },
+    "maxRetries": 2,
+    "method": "GET",
+    "timeout": 60000,
+    "url": "https://registry.npmjs.org/@types%2Fnode"
+  },
+  "15 debug pnpm:request-retry": {
+    "attempt": 2,
+    "error": {
+      "code": "ERR_INVALID_THIS"
+    },
+    "maxRetries": 2,
+    "method": "GET",
+    "timeout": 60000,
+    "url": "https://registry.npmjs.org/@types%2Freact"
+  },
+  "16 debug pnpm:request-retry": {
+    "attempt": 2,
+    "error": {
+      "code": "ERR_INVALID_THIS"
+    },
+    "maxRetries": 2,
+    "method": "GET",
+    "timeout": 60000,
+    "url": "https://registry.npmjs.org/@types%2Freact-dom"
+  },
+  "17 debug pnpm:request-retry": {
+    "attempt": 2,
+    "error": {
+      "code": "ERR_INVALID_THIS"
+    },
+    "maxRetries": 2,
+    "method": "GET",
+    "timeout": 60000,
+    "url": "https://registry.npmjs.org/autoprefixer"
+  },
+  "18 debug pnpm:request-retry": {
+    "attempt": 2,
+    "error": {
+      "code": "ERR_INVALID_THIS"
+    },
+    "maxRetries": 2,
+    "method": "GET",
+    "timeout": 60000,
+    "url": "https://registry.npmjs.org/postcss"
+  },
+  "19 debug pnpm:request-retry": {
+    "attempt": 2,
+    "error": {
+      "code": "ERR_INVALID_THIS"
+    },
+    "maxRetries": 2,
+    "method": "GET",
+    "timeout": 60000,
+    "url": "https://registry.npmjs.org/tailwindcss"
+  },
+  "20 debug pnpm:request-retry": {
+    "attempt": 2,
+    "error": {
+      "code": "ERR_INVALID_THIS"
+    },
+    "maxRetries": 2,
+    "method": "GET",
+    "timeout": 60000,
+    "url": "https://registry.npmjs.org/typescript"
+  },
+  "21 debug pnpm:request-retry": {
+    "attempt": 2,
+    "error": {
+      "code": "ERR_INVALID_THIS"
+    },
+    "maxRetries": 2,
+    "method": "GET",
+    "timeout": 60000,
+    "url": "https://registry.npmjs.org/next"
+  },
+  "22 debug pnpm:request-retry": {
+    "attempt": 2,
+    "error": {
+      "code": "ERR_INVALID_THIS"
+    },
+    "maxRetries": 2,
+    "method": "GET",
+    "timeout": 60000,
+    "url": "https://registry.npmjs.org/react"
+  },
+  "23 debug pnpm:request-retry": {
+    "attempt": 2,
+    "error": {
+      "code": "ERR_INVALID_THIS"
+    },
+    "maxRetries": 2,
+    "method": "GET",
+    "timeout": 60000,
+    "url": "https://registry.npmjs.org/react-dom"
+  },
+  "24 error pnpm": {
+    "code": "ERR_PNPM_META_FETCH_FAIL",
+    "attempts": 1,
+    "pkgsStack": [],
+    "err": {
+      "name": "pnpm",
+      "message": "GET https://registry.npmjs.org/@types%2Fnode: Value of \"this\" must be of type URLSearchParams",
+      "code": "ERR_PNPM_META_FETCH_FAIL",
+      "stack": "pnpm: GET https://registry.npmjs.org/@types%2Fnode: Value of \"this\" must be of type URLSearchParams\n    at RetryOperation._fn (C:\\Users\\MS\\AppData\\Local\\Temp\\pnpm.cjs:84827:18)\n    at processTicksAndRejections (node:internal/process/task_queues:104:5)\n    at runNextTicks (node:internal/process/task_queues:69:3)\n    at listOnTimeout (node:internal/timers:567:9)\n    at process.processTimers (node:internal/timers:541:7)"
+    }
+  }
+}
